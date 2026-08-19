@@ -170,6 +170,12 @@ Pull requests são bem-vindos! Para mudanças maiores, abra uma *issue* primeiro
 
 ---
 
+## 👤 Autor
+
+Desenvolvido por Lucas Vieira como parte do desafio **DIO × TOTVS — Fundamentos de Engenharia de Dados e Machine Learning**.
+
+---
+
 ## 📄 Licença
 
-MIT © 2026
+Este projeto está sob a licença MIT.

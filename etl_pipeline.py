@@ -2,7 +2,7 @@
 ====================================================================
  Pipeline ETL com IA Generativa — DIO TOTVS 2026 | Fundamentos de Engenharia de Dados e Machine Learning
 ====================================================================
-Autor  : Analista ETL Sênior
+Autor  : Lucas Vieira Felisberto
 Versão : 2.0.0
 Python : 3.10+
 
