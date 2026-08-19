@@ -176,6 +176,9 @@ Pull requests são bem-vindos! Para mudanças maiores, abra uma *issue* primeiro
 
 Desenvolvido por Lucas Vieira como parte do desafio **DIO × TOTVS — Fundamentos de Engenharia de Dados e Machine Learning**.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Vieira-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucasvieirafelisberto)
+[![GitHub](https://img.shields.io/badge/GitHub-lucasvieirafelisberto-181717?style=flat&logo=github)](https://github.com/lucasvieirafelisberto)
+
 ---
 
 ## 📄 Licença
