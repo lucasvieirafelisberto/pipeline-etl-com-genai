@@ -10,7 +10,9 @@
 
 ## 📋 Sobre o Projeto
 
-Pipeline **ETL (Extract → Transform → Load)** que usa **IA Generativa (Claude)** para enriquecer dados de clientes bancários com mensagens personalizadas com base no perfil financeiro de cada usuário.
+Este projeto foi desenvolvido como atividade prática da certificação **Engenharia de Dados: Python, ETL, AWS e Machine Learning**, oferecida pela **DIO em parceria com a TOTVS**.
+
+O objetivo foi construir um pipeline **ETL (Extract → Transform → Load)** completo utilizando **Python** e **IA Generativa (Claude)** para enriquecer dados de clientes bancários com mensagens personalizadas, aplicando conceitos de Engenharia de Dados, processamento de dados, integração com APIs e boas práticas de desenvolvimento.
 
 ```
 ┌─────────────┐     ┌──────────────────────────────┐     ┌─────────────────────┐
